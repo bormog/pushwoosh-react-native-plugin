@@ -37,7 +37,7 @@ android {
 }
 
 ext {
-    pushwoosh = "6.7.12"
+    pushwoosh = "3.0.0"
 }
 
 dependencies {
